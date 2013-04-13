@@ -3,4 +3,5 @@
 main(void)
 {
 	printf("my first version in GitHub!\n");
+	printf("my second version!");
 }
